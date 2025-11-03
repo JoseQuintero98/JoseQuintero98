@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JoseQuintero98/JoseQuintero98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mi 😃</h2>
+<!--Intro start-->
 
-Here are some ideas to get you started:
+<p align="left">
+🎓 DESARROLLADOR DE APLICACIONES WEB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Mi experiencia han sido practicas,algún curso realizado y también lo que voy aprendiendo en casa.
+
+📫 Contacto: **josequinteroarias98@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
